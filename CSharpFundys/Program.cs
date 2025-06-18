@@ -49,3 +49,7 @@ Console.WriteLine(CountingChars.NumberOfCharacters("Kutscenreuter"));
 //Q11 write a function to check for a palindrome
 Console.WriteLine(CheckPalindrome.IsPalindrome("nascar"));
 Console.WriteLine(CheckPalindrome.IsPalindrome("dad"));
+
+
+//Q12 write a function that makes the first letter of a string capitalized
+Console.WriteLine(CapitalizeFirst.Capitalize("brandon"));
