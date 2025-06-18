@@ -40,3 +40,12 @@ Console.WriteLine(SumOfNNumbers.SumOfAllNumbers(10));
 
 //Q9 write a function that returns a multiplication table of n number from 1-10
 MultiplicationTable.MultiTable(10);
+
+
+//Q10 write a function that counts the characters in a string 
+Console.WriteLine(CountingChars.NumberOfCharacters("Kutscenreuter"));
+
+
+//Q11 write a function to check for a palindrome
+Console.WriteLine(CheckPalindrome.IsPalindrome("nascar"));
+Console.WriteLine(CheckPalindrome.IsPalindrome("dad"));
