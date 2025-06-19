@@ -53,3 +53,7 @@ Console.WriteLine(CheckPalindrome.IsPalindrome("dad"));
 
 //Q12 write a function that makes the first letter of a string capitalized
 Console.WriteLine(CapitalizeFirst.Capitalize("brandon"));
+
+
+//Q13 write a function that replaces the spaces with -
+ReplaceSpace.LaDashA("Yo how is it going");
