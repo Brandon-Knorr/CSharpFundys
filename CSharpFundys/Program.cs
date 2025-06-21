@@ -57,3 +57,7 @@ Console.WriteLine(CapitalizeFirst.Capitalize("brandon"));
 
 //Q13 write a function that replaces the spaces with -
 ReplaceSpace.LaDashA("Yo how is it going");
+
+
+//Q14 write a function that returns the max number in an array.
+Console.WriteLine(MaxInArray.MaxArrayValue([10, 9, 17, 5, 8]));
