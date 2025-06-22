@@ -69,3 +69,7 @@ Console.WriteLine(SumOfElems.SumOfErrrThang([10, 10, 10, 10, 10]));
 
 //Q16 write a function that counts the number of appearances of a specific value
 Console.WriteLine(CountOccOfVal.NumOfOcc([2, 3, 2, 9, 17, 8, 17, 2], 2)); 
+
+
+//Q17 write a function that doubles all values of an array
+DoubleAllValues.DblAll([1, 2, 3, 4, 5, 6, 6]);
