@@ -61,3 +61,7 @@ ReplaceSpace.LaDashA("Yo how is it going");
 
 //Q14 write a function that returns the max number in an array.
 Console.WriteLine(MaxInArray.MaxArrayValue([10, 9, 17, 5, 8]));
+
+
+//Q15 write a function that adds all the elems of an array.
+Console.WriteLine(SumOfElems.SumOfErrrThang([10, 10, 10, 10, 10]));
