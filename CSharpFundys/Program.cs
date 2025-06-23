@@ -82,3 +82,7 @@ foreach (int num in evens)
 {
     Console.WriteLine(num);
 }
+
+
+//Q19 FizzBuzz Lite
+Console.WriteLine(FizzBuzz.FBuzz(15));
