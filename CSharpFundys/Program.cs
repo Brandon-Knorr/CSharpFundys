@@ -86,3 +86,7 @@ foreach (int num in evens)
 
 //Q19 FizzBuzz Lite
 Console.WriteLine(FizzBuzz.FBuzz(15));
+
+
+//Q20 IsPrime
+Console.WriteLine(IsPrime.PrimeTime(7));
