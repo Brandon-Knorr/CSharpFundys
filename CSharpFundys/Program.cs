@@ -90,3 +90,7 @@ Console.WriteLine(FizzBuzz.FBuzz(15));
 
 //Q20 IsPrime
 Console.WriteLine(IsPrime.PrimeTime(7));
+
+
+//Q21 Temperature Converter
+Console.WriteLine(TempConverter.CelsiusToFahrenheit(0));
