@@ -10,10 +10,10 @@ The problems in this repository were specifically compiled using Generative AI t
 * **20 Unique Solutions:** A focused set of exercises to practice core coding skills.
 * **Language:** Written entirely in C#.
 * **Categorized Learning:** Problems are grouped into key conceptual areas:
-    * Arrays
+    * Functions & Logic
     * Strings
-    * Mathematics
-    * Logic
+    * Conditions & Loops
+    * Arrays
 * **Commented Thought Process:** Each solution includes detailed comments explaining the logic and approach, serving as a study guide for future reference.
 
 ## 📂 Repository Structure
